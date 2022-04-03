@@ -28,7 +28,6 @@
  2. **[Tamper Monkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=tr)
     eklentisini tarayıcınıza kurduktan sonra [Scripti](https://greasyfork.org/tr/scripts/442658-rplace) kurun ve resim linkinizi scriptteki yerine yapıştırın sonrasında r/place girmeniz yeterli olacaktır**
 
- 
 
 ##   📝 Lisans
 
