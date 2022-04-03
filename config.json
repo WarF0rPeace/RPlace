@@ -1,0 +1,21 @@
+{
+
+    "image1": {
+        "file_path": "bayrak.png",
+        "position_x": 300,
+        "position_y": 344,
+        "resize": true,
+        "resize_x": 179,
+        "resize_y": 104
+    },
+
+    "ataturk": {
+        "file_path": "ataturk.png",
+        "position_x": 1001,
+        "position_y": 1,
+        "resize": true,
+        "resize_x": 102,
+        "resize_y": 118
+    }
+
+}
