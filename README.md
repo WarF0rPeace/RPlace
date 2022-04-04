@@ -1,6 +1,6 @@
 <div id="top"></div>
 
-![enter image description here](https://img.shields.io/github/contributors/WarF0rPeace/Alika.svg?style=for-the-badge) ![enter image description here](https://img.shields.io/github/forks/WarF0rPeace/Alika.svg?style=for-the-badge) ![enter image description here](https://img.shields.io/github/stars/WarF0rPeace/Alika.svg?style=for-the-badge) ![enter image description here](https://img.shields.io/github/issues/WarF0rPeace/Alika.svg?style=for-the-badge) ![enter image description here](https://img.shields.io/github/license/WarF0rPeace/Alika.svg?style=for-the-badge)
+![enter image description here](https://img.shields.io/github/contributors/WarF0rPeace/RPlace.svg?style=for-the-badge) ![enter image description here](https://img.shields.io/github/forks/WarF0rPeace/RPlace.svg?style=for-the-badge) ![enter image description here](https://img.shields.io/github/stars/WarF0rPeace/RPlace.svg?style=for-the-badge) ![enter image description here](https://img.shields.io/github/issues/WarF0rPeace/RPlace.svg?style=for-the-badge) ![enter image description here](https://img.shields.io/github/license/WarF0rPeace/RPlace.svg?style=for-the-badge)
 
 <br />
 <div align="center">
@@ -28,7 +28,6 @@
  2. **[Tamper Monkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=tr)
     eklentisini tarayıcınıza kurduktan sonra [Scripti](https://greasyfork.org/tr/scripts/442658-rplace) kurun ve resim linkinizi scriptteki yerine yapıştırın sonrasında r/place girmeniz yeterli olacaktır**
 
- 
 
 ##   📝 Lisans
 
